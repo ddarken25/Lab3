@@ -1,1 +1,2 @@
-1 line code to merge 
+new line different code in master branch
+2
